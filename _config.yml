@@ -1,2 +1,5 @@
-theme: jekyll-theme-cayman
-
+title: Imtiaz Alam Khan
+description: Hi, I am a web developer and always try to learn something new.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-time-machine
